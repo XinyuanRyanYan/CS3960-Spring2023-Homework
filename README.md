@@ -1,4 +1,4 @@
-#  - Algorithm Fairness in Machine Learning - Homeworks
+# Algorithm Fairness in Machine Learning - Homeworks
 
 This repository will contain directories with all homeworks. You can manually download the files for each homework, but we recommend that you use git to clone and update this repository.
 
@@ -14,7 +14,9 @@ git clone
 This will create a folder `CS3960-Spring2023-Homework` on your computer, with the individual homeworks in subdirectories.
 
 Updating
-As we release new homeworks, or if we discover mistakes and update an already released homework description, you'll have to update your repository. You can do this by changing into the 2023-datascience-homework directory and executing:
+As we release new homeworks, or if we discover mistakes and update an already released homework description, you'll have to update your repository. You can do this by changing into the `CS3960-Spring2023-Homework` directory and executing:
 
+```
 git pull
+```
 That's it - you'll have the latest version of the homeworks.
