@@ -9,7 +9,7 @@ You can use GitHub Desktop to update this repository as new homeworks are publis
 When you clone a repository you set up a copy on your computer. Run:
 
 ```
-git clone 
+git clone https://github.com/XinyuanRyanYan/CS3960-Spring2023-Homework.git
 ```
 This will create a folder `CS3960-Spring2023-Homework` on your computer, with the individual homeworks in subdirectories.
 
