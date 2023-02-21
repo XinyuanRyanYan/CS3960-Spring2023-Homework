@@ -1,6 +1,6 @@
 # Instruction 
 
-Running `HW-2.ipynb` requiures numpy, pandas, scikit-learn, matplotlib, and tensorflow.
+Running `HW-3.ipynb` requiures numpy, pandas, scikit-learn, matplotlib, and tensorflow.
 
 If you do not have these packages installed, please use the following command to intall them. 
 (Reminder: If you are using *pip3* on your computer, please replace *pip* with *pip3* in the following commands.)
